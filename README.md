@@ -6,7 +6,6 @@ This repository contains all code and implementations used in:
 
 ```
 Towards food image retrieval via generalization oriented sampling and loss function design
-
 ```
 submitted to TOMM 2022
 
